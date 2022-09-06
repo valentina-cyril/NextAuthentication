@@ -1,2 +1,2 @@
 # NextAuthentication
-Authentication for Next.js Application
+Authentication for Next.js Applications
